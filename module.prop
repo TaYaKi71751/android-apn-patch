@@ -1,0 +1,6 @@
+id=androidapnpatch
+name=Custom APN Patch(DUN,NODUN)
+version=1.0
+author=You
+description=Adds dun,nodun to apn
+
