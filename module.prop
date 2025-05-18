@@ -1,6 +1,6 @@
-id=androidapnpatch
-name=Custom APN Patch(DUN,NODUN)
+id=androidapnpatchlte
+name=Custom APN Patch(DUN,NODUN) for LTE Devices
 version=1.0
-author=You
+author=TaYaKi71751
 description=Adds dun,nodun to apn
 
